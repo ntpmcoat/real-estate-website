@@ -4,7 +4,7 @@ import { HouseContext } from '../../context/HouseContext';
 
 import LocationFilter from "./LocationFilter";
 import PriceFilter from "./PriceFilter";
-import PropertydeveloperFilter from "./PropertydeveloperFilter";
+import PropertydeveloperFilter from "./PropertyDeveloperFilter";
 
 const Search = () => {
 

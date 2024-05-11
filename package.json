@@ -7,11 +7,10 @@
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview",
-    "start": "vite",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist"
+    "start": "vite"
+   
   },
-  "homepage": "https://ntpmcoat.github.io/real-estate", 
+ 
   "dependencies": {
     "@chakra-ui/react": "^2.2.9",
     "@emotion/react": "^11.10.0",
